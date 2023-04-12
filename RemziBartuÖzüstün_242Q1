@@ -1,0 +1,9 @@
+Remzi Bartu Ozustun
+
+Asciiname= 114+101+109+122+105   |||   98+97+114+116+117 = 551!542
+ASciisurname = 111+122+117+115+116+117+110 = 808
+ASciitotal = 1901
+Timernumber = (Asciitotal%14)+1=267
+ARRNUMBER = 65536-1 = 65535
+Duration = (Asciisurname%1500)*30 = 363600
+LEDPINNUMBER = (Asciitotal%4)+12 = 88.04
